@@ -1,4 +1,11 @@
-Lífskraftur Heilsurækt Website
+# Lífskraftur Heilsurækt
+
+🌿 **Framtíðarheilsurækt fyrir líkama og hug**
+
+🔗 **Live site:** https://lifskraftur-gym.vercel.app/
+
+Lífskraftur er hugmynd að nútímalegri heilsurækt þar sem styrktarþjálfun, hreyfigeta, endurheimt og tækni vinna saman í rólegu og markvissu umhverfi.
+
 
 Framtíðarheilsurækt fyrir líkama og hug – Rými þar sem styrktar-þjálfun, hreyfigeta og endurheimt mætast, studd af snjallri tækni og rólegu umhverfi. 
 lifskraftur-gym.vercel.app
