@@ -1,6 +1,6 @@
 # Lífskraftur Heilsurækt
 
-🌿 **Framtíðarheilsurækt fyrir líkama og hug**
+🌿 **Framtíðarheilsurækt innblásinn af íslenskri náttúru**
 
 🔗 **Live site:** https://lifskraftur-gym.vercel.app/
 
